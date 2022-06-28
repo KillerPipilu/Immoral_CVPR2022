@@ -8,5 +8,5 @@
 
 
 ## [E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations](https://arxiv.org/pdf/2206.07578.pdf)
-[Reddit](https://www.reddit.com/r/MachineLearning/comments/vlpnuw/d_ibm_zurich_research_plagiarised_our_paper_and/))    
+[Reddit](https://www.reddit.com/r/MachineLearning/comments/vlpnuw/d_ibm_zurich_research_plagiarised_our_paper_and/)    
 [知乎](https://www.zhihu.com/question/539137931/answer/2541340057)    

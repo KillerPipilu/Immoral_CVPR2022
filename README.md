@@ -10,3 +10,8 @@
 ## [TableFormer: Table Structure Understanding with Transformers.](https://arxiv.org/pdf/2203.01017.pdf)
 [Reddit](https://www.reddit.com/r/MachineLearning/comments/vlpnuw/d_ibm_zurich_research_plagiarised_our_paper_and/)    
 [知乎](https://www.zhihu.com/question/539137931/answer/2541340057)    
+
+
+## [Mask Transfiner for High-Quality Instance Segmentation](https://arxiv.org/pdf/2111.13673.pdf)
+[知乎](https://zhuanlan.zhihu.com/p/510022569)     
+[Author's Feedback](https://zhuanlan.zhihu.com/p/526716475)    

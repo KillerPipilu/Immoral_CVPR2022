@@ -7,6 +7,6 @@
 [知乎](https://www.zhihu.com/question/539378810/answer/2543302209)    
 
 
-## [TableFormer: Table Structure Understanding with Transformers.]([https://arxiv.org/pdf/2206.07578.pdf](https://arxiv.org/pdf/2203.01017.pdf))
+## [TableFormer: Table Structure Understanding with Transformers.](https://arxiv.org/pdf/2203.01017.pdf)
 [Reddit](https://www.reddit.com/r/MachineLearning/comments/vlpnuw/d_ibm_zurich_research_plagiarised_our_paper_and/)    
 [知乎](https://www.zhihu.com/question/539137931/answer/2541340057)    
